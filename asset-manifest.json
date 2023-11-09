@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9931c4f0.chunk.css",
+    "main.js": "./static/js/main.e802048b.chunk.js",
+    "main.js.map": "./static/js/main.e802048b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.611fce6f.chunk.js": "./static/js/2.611fce6f.chunk.js",
+    "static/js/2.611fce6f.chunk.js.map": "./static/js/2.611fce6f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9931c4f0.chunk.css.map": "./static/css/main.9931c4f0.chunk.css.map",
+    "static/js/2.611fce6f.chunk.js.LICENSE.txt": "./static/js/2.611fce6f.chunk.js.LICENSE.txt",
+    "static/media/ShopByCategory.scss": "./static/media/tablets.ab269482.png",
+    "static/media/arrow.svg": "./static/media/arrow.1ea6958a.svg",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/close_icon.svg": "./static/media/close_icon.815681be.svg",
+    "static/media/favourites_like.svg": "./static/media/favourites_like.d554a185.svg",
+    "static/media/heart_like.svg": "./static/media/heart_like.a95dd00f.svg",
+    "static/media/logo.svg": "./static/media/logo.c9417692.svg",
+    "static/media/search_icon.svg": "./static/media/search_icon.eb670dd9.svg",
+    "static/media/shopping_bag.svg": "./static/media/shopping_bag.9d5d0d40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.611fce6f.chunk.js",
+    "static/css/main.9931c4f0.chunk.css",
+    "static/js/main.e802048b.chunk.js"
+  ]
+}
