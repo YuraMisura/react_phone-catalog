@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.974d075e.chunk.css",
-    "main.js": "./static/js/main.04ae630b.chunk.js",
-    "main.js.map": "./static/js/main.04ae630b.chunk.js.map",
+    "main.css": "./static/css/main.8f51e261.chunk.css",
+    "main.js": "./static/js/main.aeb4882d.chunk.js",
+    "main.js.map": "./static/js/main.aeb4882d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.f51b142d.chunk.js": "./static/js/2.f51b142d.chunk.js",
-    "static/js/2.f51b142d.chunk.js.map": "./static/js/2.f51b142d.chunk.js.map",
+    "static/js/2.5a940123.chunk.js": "./static/js/2.5a940123.chunk.js",
+    "static/js/2.5a940123.chunk.js.map": "./static/js/2.5a940123.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.974d075e.chunk.css.map": "./static/css/main.974d075e.chunk.css.map",
-    "static/js/2.f51b142d.chunk.js.LICENSE.txt": "./static/js/2.f51b142d.chunk.js.LICENSE.txt",
-    "static/media/phones-page.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/css/main.8f51e261.chunk.css.map": "./static/css/main.8f51e261.chunk.css.map",
+    "static/js/2.5a940123.chunk.js.LICENSE.txt": "./static/js/2.5a940123.chunk.js.LICENSE.txt",
+    "static/media/Pagination.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/ShopByCategory.scss": "./static/media/tablets.ab269482.png",
     "static/media/arrow.svg": "./static/media/arrow.81f93ebb.svg",
     "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fc.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.f51b142d.chunk.js",
-    "static/css/main.974d075e.chunk.css",
-    "static/js/main.04ae630b.chunk.js"
+    "static/js/2.5a940123.chunk.js",
+    "static/css/main.8f51e261.chunk.css",
+    "static/js/main.aeb4882d.chunk.js"
   ]
 }
